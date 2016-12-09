@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: gee punya blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: ghuuf_rony@yahoo.com
+copyright_name: gee/gee.github.io/t.informatika
+description: "teknik informatika universitas lampung 016"
 baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+url: "http://gee.github.io.com"
+twitter_username: @Oeny_R
+github_username:  ghuffronyrezaldhygee
+facebook_username:  ghuffrony rezaldhy ms
+email_username:  ghuff_rony@yahoo.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
