@@ -1,10 +1,6 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+#Tugas Pengantar Teknologi Infromasi, 07 Desember 2016
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
-
-###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
-
-## Before You Begin
+## Tugas : Mengupload soal yang telah di berikan pad saat Uts ke akun github, blog, dan facebook
 
 In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
 
