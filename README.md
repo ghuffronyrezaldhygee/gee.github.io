@@ -10,5 +10,6 @@ Jawaban:
 
 -Augmented Rezality adalah teknologi yang menggabungkan benda maya atau dua dimensi ataupun tiga dimensi kedalam 
 sebuah lingkungan nyata tiga dimensi lalu memproyeksikann benda-bendamaya tersebut dalam dunia nyata (real life).
+
 -Penerapannya dalam dunia nyata adalah seperti memakai pakaian melalui webcam, menangkap pokemon, dan seperti 
 hologram yang muncul di jam tangan dll.
